@@ -1,2 +1,0 @@
-# molla
-E-commerce Website 
